@@ -1,0 +1,12 @@
+h1 {
+  font-family: system-ui;
+  background-color: aquamarine;
+  text-align: center;
+  padding: 2rem;
+}
+
+img {
+  padding: 1rem;
+  margin: 3rem;
+  border: 1px solid lightblue;
+}
